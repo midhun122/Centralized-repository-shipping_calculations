@@ -16,5 +16,6 @@ Check the issue tracker for any open issues or feature requests. If you're worki
 
 Code Review
 All contributions will go through a code review process. Be open to feedback and be willing to make changes if necessary. Code reviews help maintain code quality and consistency.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 Thank you for your contribution!
